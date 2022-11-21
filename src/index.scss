@@ -1,0 +1,15 @@
+@import url(./assets/scss/_reset.scss);
+@import url(../src/fonts/stylesheet.css);
+
+a {
+  color: black;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 13px;
+  line-height: 22px;
+  transition: color 500ms;
+
+  &:hover {
+    color: #16db65;
+  }
+}

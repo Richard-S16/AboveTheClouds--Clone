@@ -1,0 +1,21 @@
+.wrapper {
+  display: grid;
+  height: 90%;
+  grid-template-columns: repeat(5, auto);
+  justify-items: center;
+  align-items: center;
+  padding: 1% 10%;
+}
+
+.invisible {
+  display: none;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+li {
+  margin-bottom: .75em;
+}
