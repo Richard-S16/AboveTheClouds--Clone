@@ -1,5 +1,5 @@
 import styles from "./Header.module.scss";
-import logo from "../../assets/ATC_logopng_220x.png";
+import logo from "../../assets/img/ATC_logopng_220x.png";
 import Nav from "../Nav/Nav";
 
 function Header({
